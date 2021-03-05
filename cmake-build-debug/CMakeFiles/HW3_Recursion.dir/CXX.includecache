@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Temesgen/CLionProjects/HW3_Recursion/Creature.h
+Maze.h
+C:/Users/Temesgen/CLionProjects/HW3_Recursion/Maze.h
+
+C:/Users/Temesgen/CLionProjects/HW3_Recursion/Maze.h
+iostream
+-
+
+C:/Users/Temesgen/CLionProjects/HW3_Recursion/assignment3.cpp
+iostream
+-
+Maze.h
+C:/Users/Temesgen/CLionProjects/HW3_Recursion/Maze.h
+Creature.h
+C:/Users/Temesgen/CLionProjects/HW3_Recursion/Creature.h
+
